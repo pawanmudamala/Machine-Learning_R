@@ -1,0 +1,25 @@
+#ZeroShot prompting 
+Classify the text into positive, neutral or negative:
+Text: That shot selection was awesome.
+Classification:
+
+Classify the text into neutral, negative or positive. 
+Text: I think the vacation is okay.
+Sentiment:
+
+#one shot prompting
+A "whatpu" is a small, furry animal native to Tanzania. An example of a sentence that uses the word whatpu
+To do a "farduddle" means to jump up and down really fast. An example of a sentence that uses the word farduddle 
+Generate 10 possible names for my new dog. A dog name that I like is Banana.
+
+#Few Shot
+Text: Today the weather is fantastic
+Classification: Pos
+Text: The furniture is small.
+Classification: Neu
+Text: I don’t like your attitude
+Classification: Neg
+Text: That shot selection was awful
+Classification:
+
+https://seo.ai/blog/how-many-languages-does-chatgpt-support
